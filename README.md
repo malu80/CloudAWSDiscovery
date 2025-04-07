@@ -1,4 +1,4 @@
-AWS Resource Discovery Tool
+**AWS Resource Discovery Tool**
 A comprehensive Python tool to dynamically discover and inventory all resources across AWS accounts and regions. This tool uses AWS API calls to detect both tagged and untagged resources, providing a complete view of your AWS infrastructure.
 
 Features
